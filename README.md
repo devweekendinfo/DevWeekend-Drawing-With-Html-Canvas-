@@ -1,5 +1,5 @@
 # Tutorial drawing clothes with fabricjs
-Demo Code Guide <a href="https://devweekend.info/drawing-with-html-canvas/">Drawing with html canvas </a>
+Demo Code Guide <a href="https://devweekend.info/drawing-with-html-canvas/">Drawing with html canvas - https://devweekend.info/drawing-with-html-canvas </a>
 <br>
 <hr>
 <br>
